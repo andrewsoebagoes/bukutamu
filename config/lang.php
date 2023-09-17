@@ -1,5 +1,6 @@
 <?php
 
 return [
-    'offices' => 'kantor'
+    'offices' => 'kantor',
+    'tamu'  => 'Data Tamu'
 ];

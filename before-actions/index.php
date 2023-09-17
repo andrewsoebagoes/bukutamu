@@ -3,6 +3,7 @@
 $route = get_route();
 
 if(startWith($route,'app/db-')) return true;
+if(startWith($route,'index')) return true;
 
 if(startWith($route,'api'))
 {
